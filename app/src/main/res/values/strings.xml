@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pertemuan4</string>
+    <string name="masuk">Masuk</string>
+    <string name="masukkan_username">Masukkan Username</string>
+    <string name="silahkan_masuk_saja">Silahkan Masuk Saja !</string>
+    <string name="masukkan_password">Masukkan Password</string>
+    <string name="masuk_bro">Masuk Bro</string>
+    <string name="masukkan_kata_kunci">Masukkan Kata Kunci</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="input_password">Input Password</string>
+    <string name="input_username">Input Username</string>
+    <string name="login_langsung">Login Langsung</string>
+    <string name="masuk_saja">Masuk saja</string>
+    <string name="masukkan_kata_sandi">Masukkan Kata Sandi</string>
+    <string name="masukkan_user">Masukkan User</string>
+</resources>
